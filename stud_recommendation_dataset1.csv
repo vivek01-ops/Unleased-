@@ -1,0 +1,201 @@
+ID,Name,Department,Year of Study,Bio Description,Interests,Skills (Top 5),Latest Achievement,Availability,Clubs
+22215078,Nicholas Henry,AI DS,4,Creative Team player Hardworking Problem solver Team player,"Web Development, Machine Learning, Gaming, Deep Learning","HTML, CSS, Keras, Python, C++",Published Research Paper,Yes,Researchers and Innovators
+22217836,Erika Goodman,Mechanical,1,Hardworking Team player Problem solver Passionate Hardworking,"Blockchain, Gaming","App Dev, HTML, SQL, Web Dev, CSS",Published Research Paper,No,EDC
+22211504,James Stevens,Electronics,3,Hardworking Passionate Creative Innovative Hardworking,"Gaming, Machine Learning, Robotics, AI","App Dev, C++, Kotlin, React, Web Dev",Interned at XYZ,Yes,Avishkar VIIT
+22219706,Chad Reed,Computer Science,1,Creative Passionate Analytical Problem solver Motivated,"Art, Gaming, Web Development","Flask, C++, Java, Web Dev, Keras",Won Hackathon,Yes,Researchers and Innovators
+22211177,Patricia Mcgee,IT,2,Team player Analytical Analytical Innovative Team player,"Sports, Web Development, Deep Learning, Art","HTML, CSS, FLutter, App Dev, TensorFlow",Completed AI Project,Yes,Hackathon VIIT
+22214923,Aaron Smith,Civil,4,Team player Passionate Problem solver Analytical Analytical,"Robotics, Art, AI","React, Django, Kotlin, SQL, CSS",Built Startup Prototype,No,GDSC
+22218398,Melissa West,IT,1,Problem solver Creative Passionate Motivated Problem solver,"Web Development, Robotics","Kotlin, HTML, TensorFlow, FLutter, Python",Built Startup Prototype,Yes,I2IC
+22218766,Vicki Mcdonald DVM,Electronics,3,Problem solver Passionate Creative Creative Passionate,"Music, Blockchain","Django, SQL, Python, TensorFlow, C++",Interned at XYZ,Yes,I2IC
+22212485,James Williamson,AI DS,3,Problem solver Passionate Passionate Team player Problem solver,"Art, Web Development, Sports","Flask, FLutter, Kotlin, Java, React",Built Startup Prototype,Yes,Hackathon VIIT
+22215910,Eric White,Mechanical,2,Team player Problem solver Creative Hardworking Motivated,"Deep Learning, Gaming, Art, Music","HTML, JavaScript, C++, Flask, Java",Built Startup Prototype,Yes,Researchers and Innovators
+22214557,Michael Dorsey,Computer Science,4,Innovative Motivated Motivated Team player Motivated,"Sports, Web Development, Blockchain","Keras, Web Dev, App Dev, Flask, React",Completed AI Project,Yes,Hackathon VIIT
+22217776,Valerie Edwards,Mechanical,2,Innovative Innovative Passionate Creative Problem solver,"AI, Robotics, Web Development","Java, Kotlin, Web Dev, C++, React",Built Startup Prototype,Yes,I2IC
+22212360,Jenna Chang,CSE AI,1,Innovative Innovative Problem solver Analytical Analytical,"Deep Learning, Machine Learning, Art","JavaScript, HTML, CSS, SQL, FLutter",Published Research Paper,No,Cisco VIIT
+22218055,Amy Ray,Civil,2,Creative Team player Team player Passionate Team player,"Sports, Gaming, Blockchain","C++, JavaScript, App Dev, SQL, FLutter",Interned at XYZ,Yes,Hackathon VIIT
+22214037,Ryan Jordan,AI ML,1,Innovative Hardworking Problem solver Creative Problem solver,"Robotics, Deep Learning","FLutter, Web Dev, App Dev, Java, Django",Won Hackathon,Yes,Robotics
+22217813,Melissa Riggs,AI ML,1,Team player Motivated Creative Problem solver Team player,"Blockchain, Web Development, Music, Gaming","Web Dev, Flask, SQL, C++, HTML",Won Hackathon,Yes,I2IC
+22211393,Samuel Keller,CSE AI,4,Problem solver Hardworking Creative Hardworking Problem solver,"Music, AI, Deep Learning, Sports","Java, Django, C++, Flask, React",Interned at XYZ,No,Cisco VIIT
+22216104,Wesley Sandoval,Computer Science,3,Passionate Hardworking Hardworking Team player Hardworking,"Sports, AI, Web Development, Robotics","CSS, FLutter, Django, Web Dev, Python",Won Hackathon,Yes,Researchers and Innovators
+22213356,Jason Ramos,AI ML,4,Problem solver Innovative Creative Passionate Innovative,"Deep Learning, Robotics","Django, Keras, Flask, Web Dev, HTML",Completed AI Project,No,GDSC
+22214645,Bradley Kelly,Civil,1,Motivated Innovative Analytical Problem solver Motivated,"Art, Sports, AI","SQL, Web Dev, HTML, Java, CSS",Completed AI Project,No,Avishkar VIIT
+22214933,Stephanie White,Civil,2,Innovative Passionate Creative Innovative Analytical,"Web Development, Art","FLutter, Flask, React, CSS, Keras",Completed AI Project,No,I2IC
+22211840,Leonard Vazquez,CSE AI,1,Problem solver Team player Problem solver Passionate Innovative,"Robotics, Blockchain, Gaming","Python, React, Keras, Flask, Java",Built Startup Prototype,Yes,I2IC
+22212141,Michelle Wilson,Civil,4,Analytical Problem solver Innovative Motivated Innovative,"AI, Web Development","CSS, Kotlin, HTML, Django, FLutter",Published Research Paper,Yes,CyberCELL
+22218702,Jared Collins,AI DS,3,Motivated Creative Team player Motivated Innovative,"Machine Learning, Sports","React, FLutter, TensorFlow, Flask, JavaScript",Completed AI Project,Yes,Hackathon VIIT
+22217465,Emily Williams,Electronics,4,Innovative Creative Innovative Motivated Analytical,"Music, Machine Learning, Deep Learning","Java, Kotlin, Flask, CSS, SQL",Built Startup Prototype,Yes,Avishkar VIIT
+22211473,Matthew Tate,Computer Science,3,Innovative Motivated Team player Problem solver Analytical,"Sports, Robotics","FLutter, Java, Python, Django, Flask",Built Startup Prototype,No,Avishkar VIIT
+22219195,Tyler Obrien,Electronics,4,Problem solver Analytical Problem solver Problem solver Problem solver,"AI, Blockchain","C++, FLutter, SQL, Kotlin, HTML",Built Startup Prototype,No,Cisco VIIT
+22218922,Barry Jones,IT,1,Analytical Motivated Hardworking Creative Hardworking,"Blockchain, Machine Learning, Robotics, Deep Learning","React, Keras, JavaScript, App Dev, Java",Interned at XYZ,Yes,GFG
+22211068,Robert Smith,Civil,2,Team player Problem solver Innovative Analytical Passionate,"Robotics, AI, Web Development, Deep Learning","JavaScript, CSS, Django, App Dev, Web Dev",Published Research Paper,No,Cisco VIIT
+22216332,Felicia George,Electronics,2,Motivated Creative Innovative Motivated Creative,"Deep Learning, Robotics, Art, AI","App Dev, CSS, SQL, Python, FLutter",Interned at XYZ,Yes,I2IC
+22214544,Leah Johnson,AI ML,2,Team player Problem solver Motivated Creative Team player,"Deep Learning, Robotics","App Dev, Keras, Django, Python, Java",Built Startup Prototype,Yes,Avishkar VIIT
+22213544,Tina Griffin,AI DS,1,Team player Analytical Hardworking Problem solver Hardworking,"Web Development, Deep Learning, Gaming, AI","Kotlin, SQL, React, FLutter, Django",Won Hackathon,No,Researchers and Innovators
+22219821,Kimberly Turner,Civil,4,Motivated Innovative Hardworking Analytical Team player,"Blockchain, Gaming","Kotlin, TensorFlow, CSS, FLutter, Web Dev",Won Hackathon,No,GFG
+22219509,Austin Green,CSE AI,2,Problem solver Creative Innovative Passionate Passionate,"Gaming, Robotics","Java, App Dev, FLutter, HTML, Web Dev",Completed AI Project,Yes,GFG
+22217221,Sandra Sullivan,Computer Science,1,Motivated Team player Creative Analytical Analytical,"Deep Learning, Blockchain, Sports, Art","CSS, Flask, Kotlin, FLutter, React",Published Research Paper,Yes,GFG
+22217189,Brian Smith,Electronics,4,Passionate Passionate Hardworking Team player Passionate,"Sports, Art, AI, Music","App Dev, Web Dev, React, CSS, C++",Interned at XYZ,No,I2IC
+22219813,Leah Cox,CSE AI,2,Team player Problem solver Creative Creative Analytical,"Deep Learning, Web Development","App Dev, Django, FLutter, Python, JavaScript",Interned at XYZ,No,I2IC
+22216552,Patrick Sanders,Electronics,1,Analytical Motivated Problem solver Creative Analytical,"Sports, Machine Learning, AI","HTML, Web Dev, Flask, React, SQL",Completed AI Project,No,I2IC
+22212074,Valerie Smith,Mechanical,3,Hardworking Problem solver Motivated Passionate Innovative,"Deep Learning, Blockchain, Art","CSS, Kotlin, Java, Keras, Python",Published Research Paper,No,GFG
+22218555,Terry Mcdonald,AI DS,3,Motivated Problem solver Creative Analytical Problem solver,"Deep Learning, Music, Sports, Web Development","TensorFlow, FLutter, SQL, CSS, Kotlin",Published Research Paper,Yes,Hackathon VIIT
+22211627,Eric Watson,Electronics,3,Analytical Creative Problem solver Hardworking Team player,"Gaming, Blockchain, Music","Python, JavaScript, Flask, Django, FLutter",Built Startup Prototype,Yes,GFG
+22218241,Paul Allen,AI ML,3,Problem solver Hardworking Passionate Problem solver Creative,"Web Development, Blockchain","CSS, C++, App Dev, Django, Python",Built Startup Prototype,Yes,EDC
+22217789,Wyatt Alvarez,AI ML,3,Passionate Creative Team player Analytical Innovative,"Music, AI, Machine Learning","Web Dev, FLutter, App Dev, TensorFlow, Flask",Won Hackathon,Yes,EDC
+22217095,Jerry Barker,Electronics,1,Problem solver Hardworking Hardworking Hardworking Team player,"AI, Blockchain","FLutter, Java, Kotlin, Keras, CSS",Completed AI Project,No,Hackathon VIIT
+22213542,Patrick Sullivan,CSE AI,1,Innovative Hardworking Creative Team player Hardworking,"Music, Web Development, Machine Learning, AI","Kotlin, React, SQL, C++, CSS",Won Hackathon,Yes,Hackathon VIIT
+22212733,Michael Jacobs,AI DS,2,Team player Analytical Passionate Innovative Problem solver,"AI, Music, Sports, Blockchain","Java, Kotlin, TensorFlow, SQL, Python",Completed AI Project,No,Cisco VIIT
+22218560,Madison Garcia,CSE AI,2,Problem solver Passionate Motivated Innovative Innovative,"Music, Robotics","React, Java, HTML, C++, Python",Won Hackathon,No,Robotics
+22217814,Kimberly Mcclain,Civil,2,Passionate Hardworking Problem solver Passionate Motivated,"Robotics, Deep Learning","HTML, CSS, C++, JavaScript, Python",Published Research Paper,No,Cisco VIIT
+22213950,Mr. Mark Wolf Jr.,AI ML,1,Hardworking Analytical Innovative Hardworking Creative,"Gaming, Machine Learning, Art","Flask, SQL, Python, Web Dev, Django",Published Research Paper,No,Avishkar VIIT
+22212949,Brittany Mendoza,AI DS,3,Passionate Passionate Innovative Team player Motivated,"Sports, Blockchain, Music, Web Development","Kotlin, Python, SQL, Keras, React",Completed AI Project,No,Hackathon VIIT
+22211142,Raymond Everett,Electronics,1,Innovative Motivated Problem solver Problem solver Hardworking,"Robotics, Web Development, Art","Python, Java, SQL, Flask, FLutter",Published Research Paper,Yes,Robotics
+22216575,Monica Ramirez,Electronics,3,Analytical Problem solver Innovative Creative Hardworking,"Music, Deep Learning, Machine Learning, AI","TensorFlow, React, Python, App Dev, Flask",Published Research Paper,Yes,I2IC
+22212183,Emily Marshall,AI ML,3,Problem solver Innovative Creative Creative Analytical,"Art, Web Development, Sports","Keras, Java, CSS, HTML, SQL",Published Research Paper,Yes,GDSC
+22215857,Alejandro Ho,Electronics,2,Passionate Motivated Hardworking Creative Hardworking,"Web Development, Robotics, Gaming","Web Dev, Python, Flask, Java, C++",Built Startup Prototype,No,Hackathon VIIT
+22218372,Andrea Charles,Electronics,1,Hardworking Problem solver Motivated Passionate Passionate,"Machine Learning, Blockchain, Web Development","CSS, App Dev, C++, Kotlin, Flask",Won Hackathon,No,Researchers and Innovators
+22212153,Madison Cook,IT,3,Innovative Innovative Creative Problem solver Team player,"AI, Deep Learning, Robotics, Art","TensorFlow, Kotlin, Keras, C++, Django",Built Startup Prototype,Yes,CyberCELL
+22217924,James White,Mechanical,4,Hardworking Motivated Team player Team player Creative,"Robotics, Blockchain, Deep Learning","Kotlin, SQL, React, Keras, HTML",Published Research Paper,No,I2IC
+22219669,Heather Murphy,Mechanical,2,Problem solver Creative Problem solver Team player Team player,"Web Development, Art","FLutter, TensorFlow, CSS, SQL, Keras",Won Hackathon,No,Hackathon VIIT
+22211565,Tommy Smith,Civil,3,Innovative Motivated Problem solver Analytical Hardworking,"AI, Art","Python, HTML, TensorFlow, Web Dev, Keras",Interned at XYZ,Yes,GDSC
+22218934,Sarah Peters,Computer Science,1,Analytical Innovative Innovative Hardworking Team player,"AI, Web Development, Robotics, Blockchain","FLutter, JavaScript, Django, Java, CSS",Won Hackathon,Yes,CyberCELL
+22214466,Jasmin Long,Civil,2,Creative Problem solver Hardworking Analytical Passionate,"Music, Sports, AI, Deep Learning","CSS, Keras, React, Web Dev, C++",Built Startup Prototype,No,Hackathon VIIT
+22213459,John Jackson,AI DS,1,Motivated Passionate Problem solver Creative Team player,"Gaming, Deep Learning, Machine Learning, Sports","Django, TensorFlow, JavaScript, C++, Java",Won Hackathon,No,Avishkar VIIT
+22217572,Danny Alvarado,Civil,4,Hardworking Hardworking Analytical Hardworking Hardworking,"Gaming, Machine Learning, Art","Web Dev, Java, Kotlin, JavaScript, App Dev",Built Startup Prototype,No,GFG
+22218374,Stephen Young,IT,2,Passionate Hardworking Passionate Innovative Problem solver,"Robotics, Sports, Gaming, Art","Keras, JavaScript, Web Dev, C++, React",Interned at XYZ,Yes,Robotics
+22216013,Tina Berry,Mechanical,1,Motivated Analytical Motivated Problem solver Analytical,"Web Development, Deep Learning, Blockchain, AI","Web Dev, C++, Keras, Java, Kotlin",Built Startup Prototype,Yes,I2IC
+22219058,Sandra Lara,CSE AI,3,Motivated Team player Creative Hardworking Hardworking,"Sports, Blockchain","Java, Flask, FLutter, HTML, JavaScript",Built Startup Prototype,Yes,CyberCELL
+22219525,Lisa Washington,Civil,3,Motivated Hardworking Team player Motivated Innovative,"Machine Learning, Music, Sports, Web Development","CSS, Python, Web Dev, Django, React",Won Hackathon,Yes,GDSC
+22211991,Mary Nielsen,AI DS,1,Analytical Motivated Hardworking Hardworking Hardworking,"Web Development, Sports","App Dev, Java, React, TensorFlow, Web Dev",Won Hackathon,No,I2IC
+22217566,Christopher Cameron,CSE AI,4,Hardworking Team player Passionate Innovative Team player,"Web Development, Art, Gaming, Robotics","HTML, Django, Web Dev, Python, C++",Built Startup Prototype,No,Researchers and Innovators
+22212933,Joshua Ramos,AI DS,3,Hardworking Analytical Analytical Team player Creative,"Web Development, Gaming, Deep Learning","C++, SQL, JavaScript, CSS, Python",Completed AI Project,Yes,EDC
+22217225,Michelle Washington,CSE AI,3,Hardworking Analytical Innovative Creative Passionate,"Music, Machine Learning, AI","Flask, React, Web Dev, Python, Keras",Interned at XYZ,No,EDC
+22215423,Sydney Michael,IT,2,Creative Innovative Analytical Creative Motivated,"Blockchain, Gaming, Machine Learning","SQL, Web Dev, Kotlin, TensorFlow, CSS",Built Startup Prototype,No,CyberCELL
+22212522,Manuel Fields,Computer Science,3,Analytical Team player Problem solver Analytical Motivated,"Sports, Blockchain, Music, Art","Django, Python, CSS, Web Dev, React",Won Hackathon,No,Cisco VIIT
+22212931,Justin Smith,AI DS,4,Team player Innovative Analytical Motivated Innovative,"Blockchain, AI, Deep Learning, Web Development","App Dev, CSS, FLutter, TensorFlow, SQL",Completed AI Project,No,GDSC
+22215952,Makayla Sanchez,Computer Science,2,Problem solver Hardworking Passionate Analytical Innovative,"Gaming, Web Development, Machine Learning","TensorFlow, Python, FLutter, HTML, SQL",Completed AI Project,Yes,I2IC
+22211353,James Brown,IT,1,Motivated Motivated Team player Team player Innovative,"Deep Learning, Sports","Web Dev, Keras, JavaScript, TensorFlow, HTML",Completed AI Project,Yes,GDSC
+22213364,Tammy Welch,Computer Science,2,Analytical Motivated Team player Analytical Analytical,"Music, Blockchain, Web Development, AI","HTML, TensorFlow, CSS, Python, React",Published Research Paper,Yes,Avishkar VIIT
+22213748,Robert Perkins,IT,3,Innovative Analytical Innovative Analytical Team player,"Gaming, AI","React, Kotlin, Keras, Web Dev, Java",Completed AI Project,No,Hackathon VIIT
+22213714,Nicole Cochran,Mechanical,3,Hardworking Passionate Analytical Motivated Creative,"Machine Learning, Gaming, AI, Sports","Flask, Java, HTML, Python, Django",Interned at XYZ,Yes,GDSC
+22215661,Sally Dean,AI ML,4,Creative Problem solver Team player Hardworking Hardworking,"Deep Learning, Sports, Gaming, Blockchain","Web Dev, Java, TensorFlow, Kotlin, Django",Published Research Paper,Yes,CyberCELL
+22213420,Robert Ibarra,Electronics,3,Passionate Problem solver Motivated Hardworking Motivated,"Machine Learning, Robotics, Music","React, Kotlin, Django, Flask, App Dev",Interned at XYZ,Yes,EDC
+22211662,Lacey Greene,AI DS,2,Innovative Passionate Hardworking Hardworking Motivated,"Robotics, Music","TensorFlow, Java, Web Dev, SQL, React",Published Research Paper,No,GDSC
+22216318,William Gardner,AI ML,2,Problem solver Analytical Team player Creative Hardworking,"Gaming, Machine Learning","C++, Java, FLutter, Django, Flask",Built Startup Prototype,No,GFG
+22217536,Heather Gentry,AI ML,2,Creative Problem solver Creative Team player Motivated,"Gaming, Sports, Robotics, Deep Learning","Python, Java, Django, React, TensorFlow",Built Startup Prototype,No,GFG
+22214463,Victoria Martinez,AI ML,3,Problem solver Hardworking Creative Analytical Team player,"Sports, Blockchain, Art","TensorFlow, React, Flask, Django, HTML",Completed AI Project,Yes,I2IC
+22211043,Amy Bernard,Electronics,2,Passionate Team player Hardworking Passionate Creative,"Robotics, Art, Gaming","Web Dev, Python, Kotlin, C++, SQL",Won Hackathon,Yes,I2IC
+22216230,Kevin Kim,Computer Science,2,Team player Problem solver Hardworking Problem solver Passionate,"Art, Music, Deep Learning, AI","App Dev, Keras, CSS, Django, Java",Won Hackathon,No,Hackathon VIIT
+22217990,Nicole Rubio,CSE AI,2,Creative Hardworking Analytical Passionate Team player,"Gaming, Art","Django, HTML, CSS, Keras, FLutter",Won Hackathon,No,Hackathon VIIT
+22218208,Nicole Vega,CSE AI,1,Team player Innovative Creative Analytical Passionate,"Art, AI","FLutter, Web Dev, HTML, Flask, Keras",Interned at XYZ,No,GFG
+22213041,Regina Saunders,CSE AI,2,Motivated Problem solver Passionate Analytical Team player,"AI, Gaming","Python, HTML, C++, FLutter, Java",Completed AI Project,Yes,Avishkar VIIT
+22214981,Joann Garcia,CSE AI,2,Team player Analytical Analytical Problem solver Motivated,"Art, Sports, Robotics, AI","Django, FLutter, Kotlin, React, Flask",Won Hackathon,Yes,Hackathon VIIT
+22217217,Jacqueline Ramirez,Electronics,1,Analytical Team player Problem solver Innovative Passionate,"Sports, Art, Gaming, Blockchain","Django, React, Python, HTML, FLutter",Published Research Paper,No,GDSC
+22212274,Gary Flores,Civil,1,Creative Passionate Motivated Hardworking Creative,"Robotics, Machine Learning, Blockchain, Deep Learning","Kotlin, C++, Flask, App Dev, Web Dev",Interned at XYZ,Yes,Hackathon VIIT
+22213307,Christopher Atkinson,AI ML,2,Hardworking Motivated Innovative Team player Team player,"Gaming, Deep Learning, Art","Keras, TensorFlow, HTML, CSS, Django",Built Startup Prototype,Yes,I2IC
+22219246,Monica Robinson,Computer Science,1,Innovative Analytical Hardworking Motivated Team player,"Music, Art, Blockchain","React, JavaScript, TensorFlow, Django, Flask",Interned at XYZ,Yes,Hackathon VIIT
+22214608,Alyssa Hanson,Civil,3,Motivated Motivated Motivated Analytical Innovative,"Deep Learning, Blockchain","HTML, JavaScript, Django, TensorFlow, SQL",Published Research Paper,Yes,CyberCELL
+22215746,Rebecca Wagner,Computer Science,4,Team player Passionate Hardworking Team player Creative,"Music, AI, Gaming","SQL, TensorFlow, Java, Keras, Python",Interned at XYZ,Yes,I2IC
+22213574,Samuel Powell,Civil,4,Passionate Hardworking Hardworking Hardworking Creative,"AI, Blockchain","Django, SQL, Java, Kotlin, App Dev",Completed AI Project,No,EDC
+22215560,Justin Hunt,Mechanical,4,Creative Creative Hardworking Motivated Team player,"AI, Machine Learning","SQL, TensorFlow, App Dev, Keras, React",Published Research Paper,Yes,GFG
+22214017,John Bailey,AI DS,1,Team player Team player Problem solver Analytical Passionate,"AI, Gaming, Blockchain, Web Development","TensorFlow, App Dev, CSS, React, Flask",Built Startup Prototype,Yes,Cisco VIIT
+22216197,William Paul,Mechanical,3,Innovative Creative Passionate Creative Innovative,"Sports, Gaming, Music","Keras, FLutter, SQL, TensorFlow, Python",Published Research Paper,No,GFG
+22215144,Joseph King,AI ML,2,Analytical Passionate Innovative Passionate Team player,"Robotics, Art, Blockchain","Web Dev, SQL, Java, TensorFlow, App Dev",Built Startup Prototype,No,Avishkar VIIT
+22215100,Jeffrey Peterson,Computer Science,3,Passionate Passionate Team player Analytical Problem solver,"Gaming, Deep Learning, Robotics","SQL, HTML, Django, Web Dev, Kotlin",Built Startup Prototype,No,I2IC
+22213669,Matthew Wallace,IT,4,Passionate Problem solver Analytical Innovative Hardworking,"Gaming, Web Development, Music","C++, CSS, SQL, Django, Python",Interned at XYZ,Yes,Robotics
+22219506,Charles Lee,Mechanical,1,Hardworking Team player Innovative Passionate Problem solver,"AI, Web Development, Deep Learning","Keras, Java, Python, TensorFlow, FLutter",Interned at XYZ,No,Robotics
+22215549,Darryl Ryan,Electronics,4,Problem solver Problem solver Innovative Hardworking Problem solver,"Machine Learning, Sports","Keras, FLutter, CSS, App Dev, C++",Won Hackathon,No,I2IC
+22217095,Christina Miller,Electronics,1,Problem solver Hardworking Hardworking Team player Innovative,"Machine Learning, Deep Learning, Gaming","Python, SQL, TensorFlow, Java, App Dev",Completed AI Project,No,EDC
+22216807,Jessica Wood,IT,3,Creative Motivated Team player Motivated Passionate,"Blockchain, Web Development","JavaScript, CSS, Kotlin, React, Flask",Built Startup Prototype,No,CyberCELL
+22218526,Christine Palmer,Mechanical,3,Team player Passionate Problem solver Team player Innovative,"Blockchain, Robotics","C++, Java, Python, Keras, JavaScript",Interned at XYZ,Yes,Cisco VIIT
+22212435,Warren Nelson,Civil,3,Hardworking Creative Passionate Analytical Creative,"Robotics, Blockchain, Art, Music","TensorFlow, App Dev, Keras, Kotlin, Web Dev",Published Research Paper,No,Researchers and Innovators
+22215120,Jeffrey Smith,Electronics,1,Problem solver Passionate Analytical Team player Motivated,"Blockchain, Deep Learning, Art, Robotics","TensorFlow, App Dev, SQL, FLutter, Flask",Won Hackathon,Yes,Researchers and Innovators
+22213992,Linda Schultz,IT,4,Passionate Passionate Analytical Passionate Creative,"Gaming, Blockchain","Python, Java, Keras, JavaScript, Web Dev",Published Research Paper,Yes,CyberCELL
+22216206,Billy Edwards,CSE AI,2,Problem solver Hardworking Team player Motivated Hardworking,"Art, Music","Flask, HTML, TensorFlow, Python, C++",Completed AI Project,Yes,I2IC
+22211842,Laurie Williams,CSE AI,1,Creative Motivated Innovative Team player Creative,"Art, Gaming, Web Development, AI","Kotlin, Web Dev, React, SQL, Python",Completed AI Project,Yes,Hackathon VIIT
+22218901,Tracy Ferguson,Computer Science,1,Hardworking Analytical Passionate Problem solver Team player,"Machine Learning, Music, Web Development","Keras, C++, HTML, SQL, TensorFlow",Interned at XYZ,Yes,Researchers and Innovators
+22219166,Kelly Fox MD,Civil,1,Creative Team player Team player Team player Hardworking,"Deep Learning, Sports, Blockchain, Art","CSS, FLutter, App Dev, Python, Java",Won Hackathon,Yes,GFG
+22214808,Brenda Garcia,IT,3,Passionate Problem solver Hardworking Analytical Passionate,"AI, Blockchain, Web Development, Music","Web Dev, Kotlin, Keras, Python, TensorFlow",Published Research Paper,No,Researchers and Innovators
+22215853,Linda Lewis,Computer Science,3,Hardworking Creative Problem solver Team player Team player,"Web Development, Sports","React, Java, CSS, FLutter, SQL",Won Hackathon,Yes,Hackathon VIIT
+22211644,Ann Jones,AI DS,4,Motivated Creative Team player Passionate Analytical,"Blockchain, Deep Learning, Gaming","Python, Java, Django, TensorFlow, Web Dev",Won Hackathon,No,EDC
+22216670,Julie Allen,Electronics,1,Passionate Motivated Innovative Passionate Analytical,"Robotics, Web Development, AI, Machine Learning","Django, Python, Web Dev, FLutter, App Dev",Completed AI Project,No,Researchers and Innovators
+22212293,John Kennedy,Electronics,2,Analytical Hardworking Team player Problem solver Passionate,"Web Development, Art, Machine Learning","SQL, JavaScript, React, HTML, C++",Completed AI Project,Yes,Hackathon VIIT
+22218437,Crystal Velez,AI ML,2,Motivated Analytical Problem solver Hardworking Hardworking,"Sports, Web Development, Robotics, Art","HTML, FLutter, Web Dev, TensorFlow, JavaScript",Interned at XYZ,No,Robotics
+22216826,Elizabeth Acosta,AI ML,4,Creative Motivated Hardworking Passionate Analytical,"Machine Learning, Sports, Art","Django, HTML, React, Python, CSS",Interned at XYZ,Yes,EDC
+22217491,Timothy Serrano,AI DS,3,Analytical Analytical Innovative Hardworking Analytical,"Music, Sports, AI","HTML, Python, SQL, CSS, JavaScript",Interned at XYZ,Yes,Researchers and Innovators
+22217058,Jennifer Molina,AI DS,4,Motivated Problem solver Team player Motivated Analytical,"Gaming, Art, Machine Learning","Java, FLutter, Python, Flask, Keras",Completed AI Project,No,Hackathon VIIT
+22218943,Tiffany Perez,Mechanical,3,Analytical Motivated Problem solver Passionate Innovative,"AI, Robotics, Art, Sports","Flask, App Dev, HTML, SQL, C++",Won Hackathon,Yes,CyberCELL
+22216386,Gregory Patterson,Civil,1,Hardworking Creative Hardworking Hardworking Problem solver,"Music, Art","Java, CSS, FLutter, Django, Flask",Won Hackathon,Yes,Hackathon VIIT
+22219339,Morgan Martinez,Electronics,1,Analytical Hardworking Analytical Innovative Problem solver,"Robotics, Deep Learning, Machine Learning, Web Development","HTML, Keras, JavaScript, App Dev, Python",Won Hackathon,No,Robotics
+22219690,Justin Cruz,CSE AI,4,Innovative Analytical Passionate Creative Hardworking,"Art, Web Development, AI, Deep Learning","TensorFlow, SQL, C++, App Dev, Django",Published Research Paper,No,EDC
+22218428,Lisa Robinson,AI DS,1,Hardworking Analytical Passionate Motivated Motivated,"Sports, Deep Learning, Art, Machine Learning","React, Web Dev, HTML, SQL, Flask",Published Research Paper,Yes,Avishkar VIIT
+22216198,Daniel Hart,CSE AI,3,Hardworking Creative Passionate Creative Innovative,"Gaming, Art","TensorFlow, Django, Java, App Dev, Flask",Built Startup Prototype,No,Robotics
+22215536,Kristin Cox,CSE AI,3,Team player Hardworking Team player Innovative Problem solver,"AI, Blockchain","App Dev, SQL, Django, CSS, Web Dev",Won Hackathon,Yes,GDSC
+22219225,Daniel Raymond,Computer Science,3,Hardworking Innovative Motivated Analytical Passionate,"Deep Learning, Sports, Web Development, Blockchain","App Dev, JavaScript, Kotlin, FLutter, Django",Interned at XYZ,Yes,Robotics
+22211031,Matthew Reed,Electronics,4,Motivated Problem solver Hardworking Problem solver Analytical,"Music, Art, Sports, Gaming","Django, TensorFlow, Web Dev, React, Keras",Interned at XYZ,No,Robotics
+22214380,Heather Gross,IT,4,Hardworking Team player Problem solver Motivated Motivated,"Machine Learning, Robotics, Music","Web Dev, Django, TensorFlow, Flask, C++",Won Hackathon,Yes,Cisco VIIT
+22214935,Robert Hernandez,AI ML,3,Hardworking Problem solver Analytical Innovative Motivated,"Deep Learning, Sports","HTML, Web Dev, TensorFlow, Django, Python",Published Research Paper,No,CyberCELL
+22216148,Andre Adams,Mechanical,3,Motivated Problem solver Motivated Innovative Hardworking,"AI, Web Development, Deep Learning, Gaming","Python, FLutter, Django, React, Keras",Built Startup Prototype,Yes,I2IC
+22212594,Kyle Allen,AI DS,2,Problem solver Passionate Problem solver Team player Problem solver,"Web Development, Art, AI","SQL, TensorFlow, C++, Django, Python",Won Hackathon,No,Robotics
+22213963,Kimberly Taylor,IT,3,Motivated Team player Team player Creative Problem solver,"Sports, AI, Art","Keras, Flask, React, C++, HTML",Completed AI Project,No,CyberCELL
+22218869,Amanda House,Mechanical,2,Hardworking Creative Analytical Hardworking Hardworking,"Blockchain, Music, Art, Sports","CSS, FLutter, SQL, HTML, Java",Completed AI Project,Yes,Cisco VIIT
+22211269,Kevin Hernandez,AI DS,3,Innovative Passionate Team player Innovative Analytical,"Machine Learning, Sports","React, Django, Flask, JavaScript, TensorFlow",Interned at XYZ,Yes,Robotics
+22216220,Jeff Cross,CSE AI,4,Problem solver Motivated Innovative Problem solver Problem solver,"Sports, Web Development, Music, Machine Learning","App Dev, React, JavaScript, SQL, Django",Published Research Paper,No,EDC
+22212028,Philip Watkins,Mechanical,3,Analytical Motivated Problem solver Analytical Analytical,"Music, Art, Gaming","Keras, C++, FLutter, SQL, React",Published Research Paper,No,Cisco VIIT
+22214210,Sarah Rocha,IT,3,Problem solver Problem solver Passionate Team player Creative,"Robotics, Machine Learning, Art","React, Python, Flask, Keras, JavaScript",Completed AI Project,Yes,Hackathon VIIT
+22219164,Christina Roach,Computer Science,4,Motivated Problem solver Creative Passionate Team player,"Machine Learning, Blockchain","React, C++, Java, Django, FLutter",Completed AI Project,Yes,I2IC
+22214251,Christian Fisher,Mechanical,1,Problem solver Hardworking Analytical Hardworking Passionate,"Art, Sports, Deep Learning","HTML, Java, Keras, FLutter, JavaScript",Published Research Paper,No,GFG
+22211229,Paul Miller,Computer Science,4,Passionate Motivated Creative Hardworking Hardworking,"Machine Learning, Sports, Web Development","Python, CSS, React, Java, Keras",Interned at XYZ,Yes,I2IC
+22213574,Joseph Smith,AI ML,2,Creative Creative Passionate Motivated Innovative,"Art, AI, Blockchain","TensorFlow, Django, CSS, SQL, Java",Won Hackathon,Yes,Hackathon VIIT
+22213661,Christopher Jones,Computer Science,4,Analytical Problem solver Problem solver Creative Team player,"AI, Art, Machine Learning","Keras, Java, Web Dev, CSS, TensorFlow",Won Hackathon,Yes,Robotics
+22213740,Stephen Hernandez,Civil,4,Hardworking Passionate Hardworking Problem solver Motivated,"Music, Robotics, Sports, AI","HTML, TensorFlow, CSS, SQL, Keras",Published Research Paper,Yes,GDSC
+22215167,John Ewing,CSE AI,1,Hardworking Motivated Hardworking Analytical Innovative,"Blockchain, Music, Web Development","SQL, React, Web Dev, Kotlin, App Dev",Won Hackathon,No,Cisco VIIT
+22216049,Kim Hart,AI DS,1,Innovative Team player Motivated Hardworking Motivated,"Robotics, Sports, AI","FLutter, Flask, Python, Kotlin, JavaScript",Built Startup Prototype,Yes,I2IC
+22212957,Daniel Sanders,CSE AI,1,Innovative Problem solver Creative Team player Creative,"Sports, Deep Learning, Art","Java, React, C++, Django, Flask",Published Research Paper,Yes,Cisco VIIT
+22219555,Brittany Marsh,IT,4,Creative Passionate Team player Passionate Passionate,"Robotics, Deep Learning, Gaming","SQL, FLutter, HTML, Web Dev, Flask",Built Startup Prototype,Yes,Robotics
+22213514,Stephanie Bishop,Electronics,1,Problem solver Passionate Team player Creative Team player,"Sports, Machine Learning, Deep Learning","App Dev, Web Dev, C++, FLutter, Java",Interned at XYZ,Yes,Researchers and Innovators
+22217797,Erin Mcdowell,AI DS,1,Hardworking Innovative Motivated Hardworking Motivated,"Web Development, Blockchain, Music","Django, TensorFlow, CSS, Flask, C++",Won Hackathon,No,GFG
+22216811,William Holland,Mechanical,3,Creative Hardworking Motivated Hardworking Passionate,"Blockchain, Deep Learning","React, C++, SQL, Web Dev, HTML",Won Hackathon,No,GDSC
+22219327,Jasmine Gray,Civil,3,Team player Creative Creative Motivated Problem solver,"Sports, Deep Learning","JavaScript, Web Dev, C++, Python, TensorFlow",Won Hackathon,No,CyberCELL
+22215905,Brittney Ellis,Mechanical,1,Motivated Innovative Creative Motivated Analytical,"Art, Robotics","Django, Keras, Java, CSS, React",Published Research Paper,No,CyberCELL
+22219120,Johnny Romero,Electronics,3,Creative Hardworking Problem solver Team player Team player,"Art, Deep Learning, Music, Sports","C++, Python, Web Dev, Django, FLutter",Published Research Paper,No,Avishkar VIIT
+22215725,Courtney Mcguire,AI ML,2,Passionate Motivated Motivated Motivated Problem solver,"Gaming, Machine Learning, AI, Robotics","HTML, Web Dev, Python, JavaScript, SQL",Interned at XYZ,No,GDSC
+22219127,Sara Burnett,AI ML,4,Innovative Motivated Problem solver Passionate Passionate,"Deep Learning, Music, Sports, Robotics","React, SQL, CSS, Keras, Django",Completed AI Project,Yes,I2IC
+22218916,Casey Ward,Computer Science,4,Hardworking Passionate Analytical Analytical Problem solver,"Machine Learning, Blockchain, Music, Web Development","SQL, TensorFlow, Java, Flask, Django",Built Startup Prototype,No,Cisco VIIT
+22212100,Kelly Barajas,AI ML,3,Passionate Hardworking Creative Creative Creative,"Art, AI","Java, TensorFlow, Python, Django, App Dev",Completed AI Project,No,I2IC
+22215555,Francisco Wilson,AI ML,2,Passionate Innovative Problem solver Analytical Problem solver,"Music, Gaming, AI, Machine Learning","Python, Flask, CSS, App Dev, Django",Won Hackathon,No,I2IC
+22216294,Tyler Kelly,Civil,2,Hardworking Innovative Passionate Passionate Passionate,"Gaming, Deep Learning, Music","Keras, Flask, React, TensorFlow, HTML",Built Startup Prototype,No,GDSC
+22217209,William Butler,AI ML,1,Innovative Motivated Creative Analytical Passionate,"Machine Learning, Robotics, Art, AI","App Dev, Flask, TensorFlow, Java, Python",Published Research Paper,No,CyberCELL
+22219059,James Rodriguez,IT,3,Problem solver Passionate Motivated Analytical Innovative,"AI, Music, Robotics","Python, TensorFlow, Django, Java, App Dev",Published Research Paper,No,GDSC
+22216714,Alexis Thornton,Mechanical,1,Problem solver Passionate Motivated Team player Innovative,"AI, Blockchain","App Dev, Python, JavaScript, Web Dev, Kotlin",Won Hackathon,No,Robotics
+22211863,Amy Williams,Civil,2,Innovative Innovative Hardworking Hardworking Innovative,"Deep Learning, Gaming, Machine Learning","Kotlin, Django, Keras, Flask, FLutter",Won Hackathon,Yes,GDSC
+22212682,John Molina,AI ML,1,Hardworking Creative Motivated Team player Motivated,"Gaming, Robotics, Sports","Keras, Python, SQL, Flask, Kotlin",Built Startup Prototype,No,GDSC
+22216227,Ariel Hernandez,Computer Science,3,Passionate Motivated Innovative Creative Passionate,"Web Development, Music","Python, JavaScript, CSS, C++, FLutter",Won Hackathon,No,Hackathon VIIT
+22212072,Darrell Perez,AI ML,4,Creative Team player Motivated Problem solver Hardworking,"Gaming, AI, Machine Learning, Blockchain","C++, Keras, SQL, Java, Python",Interned at XYZ,No,GDSC
+22218886,Karen Huber,AI DS,2,Motivated Creative Innovative Motivated Analytical,"Music, Art","App Dev, Keras, Python, Web Dev, Flask",Won Hackathon,Yes,EDC
+22217373,Ralph Ruiz,Computer Science,3,Creative Innovative Problem solver Analytical Team player,"Gaming, Robotics, Art, Music","Web Dev, C++, Kotlin, App Dev, HTML",Completed AI Project,No,Hackathon VIIT
+22211489,Angela Meza,AI ML,4,Team player Motivated Innovative Motivated Team player,"Blockchain, Music","HTML, FLutter, C++, Python, App Dev",Published Research Paper,Yes,CyberCELL
+22215386,Jane Vaughn,Electronics,1,Motivated Analytical Passionate Innovative Passionate,"Web Development, Sports, Music, Deep Learning","Python, Java, SQL, React, App Dev",Interned at XYZ,Yes,Hackathon VIIT
+22214226,Jeffrey Skinner,IT,2,Team player Innovative Team player Analytical Team player,"Art, AI, Web Development","HTML, Django, Web Dev, Java, Keras",Interned at XYZ,Yes,EDC
+22219139,William Bullock,CSE AI,2,Creative Team player Analytical Problem solver Motivated,"Art, Blockchain, Gaming, Robotics","Python, React, FLutter, SQL, Django",Built Startup Prototype,No,Robotics
+22219434,Jennifer Adams,AI DS,4,Team player Analytical Hardworking Innovative Team player,"Gaming, Music","SQL, Web Dev, Kotlin, Django, Python",Won Hackathon,No,GDSC
+22216704,Angela Adams,CSE AI,1,Creative Team player Creative Analytical Passionate,"Machine Learning, Deep Learning","Flask, SQL, FLutter, JavaScript, Keras",Built Startup Prototype,No,EDC
+22211440,David Garcia,Civil,2,Passionate Innovative Innovative Hardworking Team player,"Machine Learning, Sports, Art","Kotlin, Flask, JavaScript, CSS, Keras",Completed AI Project,Yes,CyberCELL
+22211746,Cory Carter,AI DS,4,Hardworking Problem solver Innovative Creative Team player,"Art, Music, Gaming, Robotics","C++, TensorFlow, Django, Java, Web Dev",Built Startup Prototype,No,Researchers and Innovators
+22216318,Daniel Wood,Electronics,3,Motivated Passionate Innovative Innovative Motivated,"Gaming, Deep Learning, Music, Blockchain","Python, Web Dev, CSS, FLutter, Keras",Completed AI Project,Yes,EDC
+22218481,Alexander Evans,Computer Science,4,Motivated Innovative Problem solver Hardworking Passionate,"Machine Learning, Deep Learning, Art, Blockchain","HTML, SQL, C++, JavaScript, Web Dev",Won Hackathon,Yes,GDSC
+22212569,Andrea Williams,IT,3,Hardworking Creative Motivated Problem solver Hardworking,"Machine Learning, Robotics, Art, AI","C++, Kotlin, CSS, JavaScript, SQL",Won Hackathon,No,Avishkar VIIT
+22215433,Robert Alexander,AI ML,1,Creative Motivated Team player Problem solver Motivated,"Machine Learning, Sports","CSS, FLutter, Java, JavaScript, Django",Completed AI Project,Yes,Avishkar VIIT
+22217153,Carlos Walsh,Electronics,3,Team player Passionate Innovative Team player Passionate,"Music, Deep Learning, Blockchain","React, FLutter, TensorFlow, Java, HTML",Built Startup Prototype,No,CyberCELL
+22219570,Jesse Smith,Mechanical,2,Passionate Analytical Team player Problem solver Hardworking,"Sports, Robotics, Blockchain, Music","Django, Flask, TensorFlow, Keras, C++",Interned at XYZ,Yes,CyberCELL
+22218524,Alexa Murphy,Civil,1,Motivated Team player Team player Team player Team player,"AI, Deep Learning, Web Development","Flask, Keras, JavaScript, FLutter, CSS",Published Research Paper,Yes,Cisco VIIT
+22211807,James Rose,Electronics,2,Problem solver Innovative Team player Analytical Analytical,"Gaming, Music, Art, Robotics","TensorFlow, JavaScript, Python, Java, Keras",Won Hackathon,No,GFG
+22217076,Beverly Levine,AI ML,3,Creative Passionate Motivated Innovative Motivated,"Deep Learning, Art, Machine Learning, AI","Django, Keras, TensorFlow, HTML, FLutter",Interned at XYZ,No,I2IC
+22215121,Christina Waters,Mechanical,3,Passionate Creative Passionate Motivated Team player,"Sports, Art","Python, CSS, C++, Java, HTML",Published Research Paper,Yes,GDSC
+22219063,Brian Bowman,Mechanical,1,Creative Creative Creative Innovative Hardworking,"Web Development, Blockchain","Django, SQL, Keras, Java, App Dev",Published Research Paper,No,Robotics
+22216040,Becky Chavez,AI DS,1,Team player Motivated Innovative Passionate Innovative,"Deep Learning, Machine Learning, Web Development","Python, Java, Flask, FLutter, Web Dev",Built Startup Prototype,No,EDC
+22212831,Alejandro Watson,CSE AI,2,Innovative Analytical Team player Hardworking Hardworking,"AI, Robotics","Kotlin, Keras, React, JavaScript, FLutter",Won Hackathon,Yes,GFG
+22211995,Joel George,Electronics,3,Innovative Passionate Hardworking Innovative Problem solver,"Art, Sports, Web Development","Keras, Kotlin, Java, React, Django",Built Startup Prototype,No,Cisco VIIT
+22218619,Mr. Paul Ortega,Computer Science,4,Problem solver Creative Hardworking Problem solver Passionate,"Art, Robotics, Sports, Machine Learning","TensorFlow, Kotlin, Django, SQL, Python",Interned at XYZ,No,Cisco VIIT
+22219714,Jessica Jenkins,Computer Science,1,Innovative Team player Motivated Motivated Creative,"Deep Learning, AI, Machine Learning","App Dev, JavaScript, FLutter, Django, Web Dev",Built Startup Prototype,Yes,Avishkar VIIT
+22211289,Charles Carroll,AI DS,4,Team player Motivated Analytical Creative Innovative,"Machine Learning, Sports, Deep Learning","FLutter, CSS, HTML, TensorFlow, Keras",Built Startup Prototype,No,GDSC
