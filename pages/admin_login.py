@@ -57,6 +57,7 @@ elif choice == "Login":
         user = cursor.fetchone()
         if user:
             st.success(f"Welcome, {user[1]}!")  # Display user's full name
+            st.switch_page('pages/admin_dashboard.py')
         else:
             st.error("Invalid username or password.")
 
