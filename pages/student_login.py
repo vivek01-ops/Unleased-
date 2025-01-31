@@ -69,7 +69,7 @@ def login_user(username, password):
 
 
 def load_data():
-    df = pd.read_csv(r"C:\Users\ASUS\Downloads\Unleashed\Unleashed\stud_recommendation_dataset1.csv")
+    df = pd.read_csv(r"stud_recommendation_dataset1.csv")
     nltk.download('punkt')
     nltk.download('stopwords')
     nltk.download('wordnet')
